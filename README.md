@@ -1,0 +1,2 @@
+# javascript_learning_freecodecamp
+total beginner javascript
